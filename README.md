@@ -1,0 +1,1 @@
+JeniusAcademy is a learning website for high school students in Indonesia who is struggling on a certain subject. This is an individual project for Human and Computer Interaction course in second semester.
